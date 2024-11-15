@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": "83c3",
+      "name": "Emmanuel kipkirui ronoh",
+      "email": "eronoh036@gmail.com",
+      "password": "1234",
+      "role": "user"
+    },
+    {
+      "id": "2ace",
+      "email": "eronoh036@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "915e",
+      "email": "eronoh036@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "0206",
+      "email": "amos@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "7c70",
+      "name": "Emmanuel kipkirui",
+      "email": "eronoh036@gmail.com",
+      "password": "12345",
+      "role": "user"
+    },
+    {
+      "id": "2ff1",
+      "name": "Emmanuel kipkirui",
+      "email": "eronoh036@gmail.com",
+      "password": "12345",
+      "role": "user"
+    },
+    {
+      "id": "1e80",
+      "email": "eronoh036@gmail.com",
+      "password": "12345"
+    }
+  ]
+}
